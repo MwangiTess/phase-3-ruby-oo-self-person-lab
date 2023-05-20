@@ -74,7 +74,4 @@ puts person.bank_account
 puts person.happiness
 puts person.hygiene
 
-
-
-
 binding.pry
